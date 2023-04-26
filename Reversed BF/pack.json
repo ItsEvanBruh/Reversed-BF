@@ -1,0 +1,7 @@
+{
+	"name": "Reverse Notes And BF",
+	"description": "Makes BF Animations Reversed So Left=Right Right=Left Down=Up Up=Down",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}
